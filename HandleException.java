@@ -6,7 +6,7 @@ and also log the exception “Exception + error message(actual error msg)“.
 
 *******************************************************************************/
 import java.util.*;
-public class HandelException
+public class HandleException
 {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
