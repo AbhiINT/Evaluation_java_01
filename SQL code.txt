@@ -1,0 +1,1 @@
+SELECT projectName FROM projectDetail GROUP BY projectName HAVING count(DISTINCT projectDetailID)>1;
