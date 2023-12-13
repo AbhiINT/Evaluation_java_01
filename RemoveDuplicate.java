@@ -24,7 +24,7 @@ class Solution{
     return j;
     }
 }
-public class Main
+public class RemoveDuplicate
 {
 	public static void main(String[] args) {
 		ArrayList<Integer>arr=new ArrayList<>();
